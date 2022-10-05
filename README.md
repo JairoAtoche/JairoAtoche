@@ -1,5 +1,6 @@
+![👋 Hola! Soy JairoAtoche](https://user-images.githubusercontent.com/44626985/193957041-92575aeb-c5cf-4511-8d0f-e21e25c0b5f6.jpg)
 
-**Ingeniero de sistemas** | **Desarrollador web**, he aprendido a gestionar y desarrollar proyectos empleando el PMBOK y metodologías de desarrollo colaborando en el desarrollo del ciclo de vida del software desde el análisis y obtención de requisitos, diseño, programación, testeo y despliegue empleando diversas tecnologías. Mi objetivo es crecer profesionalmente enfocandome en la gestión y desarrollo de proyectos. Considero que el trabajo en equipo, comunicación, resolución de problemas y orientación a los detalles son las habilidades que permiten garantizar un trabajo de calidad.
+**Ingeniero de sistemas** | **Desarrollador Frontend**, he aprendido a gestionar y desarrollar proyectos empleando el PMBOK y metodologías de desarrollo colaborando en el desarrollo del ciclo de vida del software desde el análisis y obtención de requisitos, diseño, programación, testeo y despliegue empleando diversas tecnologías. Mi objetivo es crecer profesionalmente enfocandome en la gestión y desarrollo de proyectos. Considero que el trabajo en equipo, comunicación, resolución de problemas y orientación a los detalles son las habilidades que permiten garantizar un trabajo de calidad.
 
 ## 📁 Mis proyectos
 Me gusta desarrollar proyectos donde pueda seguir aprendiendo, mejorando mis conocimientos y habilidades técnicas. Aquí algunos proyectos que he realizado.
